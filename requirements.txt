@@ -1,0 +1,12 @@
+numpy
+torch
+torchvision
+fire
+ripser
+loguru
+tqdm
+pydantic
+pytest
+wandb
+giotto-ph
+scikit-learn
