@@ -1,0 +1,52 @@
+.vscode/
+build/
+dist/
+__pycache__
+.ipynb_checkpoints/
+.DS_Store
+
+/phd
+
+/tmp
+
+# Result folders
+/results_parallel
+/results
+/final_results
+/review_results
+/post_accept_results
+
+# Experiments made for the review
+/review
+
+
+
+
+/trained_weights_sample
+
+.pytest_cache
+
+# *.out.*
+*.batch
+# pytest.batch
+# pytest_gpu.batch
+# risk_analysis.batch
+!diagram.batch
+!bhp.batch
+# !cnn9.batch
+!compute_dimensions.batch
+!hellinger.batch
+!bhp_cpu.batch
+!analysys_with_initial_weights.batch
+!cnn9_pretrained.batch
+!fcn6_pretrained.batch
+
+
+plots.sh
+
+wandb/
+
+plots/results
+
+bhp_experiments/
+
